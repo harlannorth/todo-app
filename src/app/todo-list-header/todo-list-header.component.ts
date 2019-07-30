@@ -17,6 +17,7 @@ export class TodoListHeaderComponent {
   }
 
   addTodo() {
+    console.log(this.newTodo);
     this.add.emit(this.newTodo);
     this.newTodo = new Todo();
   }
