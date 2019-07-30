@@ -1,6 +1,7 @@
 # TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+The code and concept is from this turtorial: https://www.sitepoint.com/angular-2-tutorial/ but updated for angular 8 and my purposes.
 
 ## Development server
 
