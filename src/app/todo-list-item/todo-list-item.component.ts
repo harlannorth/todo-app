@@ -24,7 +24,6 @@ export class TodoListItemComponent {
   }
 
   removeTodo(todo: Todo) {
-    console.log("testing");
     this.remove.emit(todo);
   }
 
